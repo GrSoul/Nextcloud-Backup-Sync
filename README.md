@@ -22,5 +22,5 @@ _The script contains also a part named "Another clean up" which also deletes the
 Download it, open a terminal in the same folder and type:
 
 ```
-./nextcloud-backup.sh
+sudo ./nextcloud-backup.sh
 ```
