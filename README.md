@@ -15,6 +15,7 @@ _The script contains also a part named "Another clean up" which also deletes the
 ## Prerequisities
 
 - The script only works with Nextcloud snap installations.
+- You must have a folder named "backups" in "home" folder.
 - You must mount an external drive to the folder ~/HDD1000GB (or change this part of the script to your needs).
 
 ## How to use
