@@ -7,7 +7,7 @@ The script:
 
 - clears the /var/snap/nextcloud/common/backups folder from older backups
 - exports nextcloud's database to /var/snap/nextcloud/common/backups folder
-- syncs the compressed backup to an external drive named "HDD1000GB"
+- syncs the backup to an external drive named "HDD1000GB"
 - (optional) compresses the new backup in the external drive
 
 _You need to uncomment the option to compress the backup if you want to use it_
